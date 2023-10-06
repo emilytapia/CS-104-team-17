@@ -15,7 +15,7 @@ This project aims to directly connect students to the printers. Without this sol
 -Students will be able view their print progress in real time, and see if there were any errors.
 - We wish to provide a live status of all 3D Printers which students can look up.
 - Will be able to view if they are in use, their current progress, or if they are out of order.
-- 
+  
 Who are the potential stakeholders of your project? Who has expectations for this project?
  Students, undergrad and graduate, Faculty, staff and program leaders. (out of scope) If this project was sold as a service, clients/customers/business that rely on it.
 
